@@ -8,7 +8,7 @@ Understanding the key factors contributing to disruptions is crucial for develop
 ## Strategy Implemented 🎯 
 
 To effectively analyze the Logistics & Transportation data and provide actionable insights, I followed a systematic approach:
-   1. Business and Data understanding: I started with making research on logistics processes, understanding the key business questions and Exploring the metadata to understand data structure and contents.
+   1. Business and Data understanding: I started with making research on logistics processes, understanding the key [business questions](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/Intro%20%26%20Brief_Challenge%2024_English.docx) and Exploring the metadata and [data](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/Transportation%20%26%20Logistics%20Tracking%20Dataset.xlsx) to understand data structure and contents.
  
    2. Data Cleaning & Transformation: By removing duplicates and unnecessary columns e.g (Driver No), creating new columns both calculated and conditional colums, and creating a star schema model of the data. ![Image](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/ERD.PNG)
 
