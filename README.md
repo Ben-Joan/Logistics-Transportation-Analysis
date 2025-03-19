@@ -23,6 +23,27 @@ To effectively analyze the Logistics & Transportation data and provide actionabl
 Logistics Performance Overview 
 ![Image](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/Logistics%20%26%20Transport%20Tracking_page-0001.jpg)
 
+Overall Booking Performance:
+Total Bookings: 3,582
+*On-Time Rate: 39%* (indicating a low efficiency in timely deliveries)
+*Delay Rate: 61%* (high delay percentage, requiring investigation)
+On average, *delivery takes: 9 days* after *7 days delay* from the planned delivery day.
+Average Distance: 806 km
+Also, the *Lead time is averagely 15hrs* (i.e the time between when the booking is made and when the delivery started) indicating that most shipments starts within 24hrs of booking. 
+
+Booking Trends:
+Monthly Booking is Peak in mid-year (June-August) and also January, but with noticeable spikes in delayed deliveries.
+
+Peak booking time: 
+Most bookings happen between 13:00 - 18:00 (1 PM - 6 PM) across all weekdays.
+The second busiest period is 6:00 - 12:00 (6 AM - 12 PM).
+Very few bookings occur between 0:00 - 5:00 AM, indicating minimal activity at night.
+
+Day-wise Booking Trends:
+Monday to Thursday show the highest volume of bookings.
+Friday sees a decline in bookings,
+while Saturday and Sunday have the lowest bookings, with Sunday showing very little activity.
+
 Logistics Delay Analysis 
 ![Image](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/Logistics%20%26%20Transport%20Tracking_page-0002.jpg)
 
