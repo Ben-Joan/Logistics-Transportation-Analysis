@@ -26,4 +26,6 @@ Logistics Performance Overview
 Logistics Delay Analysis 
 ![Image](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/Logistics%20%26%20Transport%20Tracking_page-0002.jpg)
 
+
+Check out the [Online Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQxZTk1OGQtZjMzMi00YzgyLWI4YWYtMWM0MzI2NzhkYjUxIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 ## Recommendations 🛠️
