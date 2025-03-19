@@ -48,7 +48,7 @@ while Saturday and Sunday have the lowest bookings, with Sunday showing very lit
 
 **Distance Analysis:**
  - Most bookings are within shorter distances (i e 0 - 500km), followed by longer distance (2000+km). But delays persist across all ranges, most occurring at the 0-500km category.
- - Delivery time increases with distance but delay does not increase at the same rate, especially at shorter distances (0-500km) which shows very poor time efficiency. Time efficiency shows the percentage of delivery time that is actually spent on transit. The very poor time efficiency at shorter distance indicates a severe problem which might possibly be from poor scheduling, traffic congestion or vehicle inefficiency due to high shipment volume within this distance.
+ - Delivery time increases with distance but delay does not increase at the same rate, especially at shorter distances (0-500km) which shows very poor time efficiency. Time efficiency shows the percentage of delivery time that is actually spent on transit. The very poor time efficiency at shorter distance *(11%)* indicates a severe problem which might possibly be from poor scheduling, traffic congestion or vehicle inefficiency due to high shipment volume within this distance.
 
 Check out the [Online Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQxZTk1OGQtZjMzMi00YzgyLWI4YWYtMWM0MzI2NzhkYjUxIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
