@@ -20,6 +20,10 @@ To effectively analyze the Logistics & Transportation data and provide actionabl
 
 
 ## Insights 💡
+Logistics Performance Overview 
+![Image](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/Logistics%20%26%20Transport%20Tracking_page-0001.jpg)
 
+Logistics Delay Analysis 
+![Image](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/Logistics%20%26%20Transport%20Tracking_page-0002.jpg)
 
 ## Recommendations 🛠️
