@@ -17,3 +17,9 @@ To effectively analyze the Logistics & Transportation data and provide actionabl
    4. Dashboard Development: To visualize these insights effectively, I built a dynamic dashboard. The dashboard allows the monitoring of logistics performance and identifies delay causes.
 
    5. Suggestions for Improvement: Finally, based on the data analysis, I provided suggestions and strategies for reducing delay rate and optimizing efficiency.
+
+
+## Insights 💡
+
+
+## Recommendations 🛠️
