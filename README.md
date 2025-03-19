@@ -41,6 +41,11 @@ To effectively analyze the Logistics & Transportation data and provide actionabl
    - Monday to Thursday show the highest volume of bookings.Friday sees a decline in bookings,
 while Saturday and Sunday have the lowest bookings, with Sunday showing very little activity.
 
+**Supplier, Customer and Materials Performance:**
+ - Many suppliers have significantly more delays than on-time deliveries. Top suppliers with high delays include Ekta Transport Company, Trans Cargo India, etc.
+ - A significant portion of bookings across customers are delayed.Larsen & Toubro Limited and Ford India Private Limited have the highest number of bookings and very high delay rate. While Ford India has a better time efficiency, Larsen's is very low indicating that delivery is taking too long even with the less average distance being covered.
+ - Auto Parts have the highest total bookings(1277). Empty Trays and GRS Starters also show a high number of delayed bookings.
+
 
 #### Logistics Delay Analysis: This page identifies delay analysis causes as Distance, Vehicle Type, Driver, Route and Gps provider. It shows how far shipments go and delivery time efficiency, top 10 routes where most delays occur, top 10 vehicle and driver with high delay rate and Gps provider analysis.
 
