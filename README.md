@@ -79,8 +79,8 @@ To improve transportation efficiency:
 
  - **Supplier and Customer Relationship Management:** Investigate top suppliers with high delay rates and prioritize top customers with long delivery time (e.g., Larsen, Otis Elevator) to maintain business relationships
 
- -**Driver Performance Management:** Re-train or consider letting go of top drivers with high delay impact.
+ - **Driver Performance Management:** Re-train or consider letting go of top drivers with high delay impact.
 
- -**Vehicle Maintenance:** Further Investigation of the top vehicles with high delay impact and perform necessary maintenance to prevent unnecessary breakdowns.
+ - **Vehicle Maintenance:** Further Investigation of the top vehicles with high delay impact and perform necessary maintenance to prevent unnecessary breakdowns.
 
 By implementing these recommendations, there will be improvement in transportation efficiency, reducing delays, and enhancing customer satisfaction.
