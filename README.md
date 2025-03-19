@@ -8,12 +8,12 @@ Understanding the key factors contributing to disruptions is crucial for develop
 ## Strategy Implemented 🎯 
 
 To effectively analyze the Logistics & Transportation data and provide actionable insights, I followed a systematic approach:
- #### 1. Business and Data understanding: I started with making research on logistics processes, understanding the key business questions and Exploring the metadata to understand data structure and contents.
+   1. Business and Data understanding: I started with making research on logistics processes, understanding the key business questions and Exploring the metadata to understand data structure and contents.
  
- #### 2. Data Cleaning & Transformation: By removing duplicates and unnecessary columns e.g (Driver No), creating new columns both calculated and conditional colums, and creating a star schema model of the data.
+   2. Data Cleaning & Transformation: By removing duplicates and unnecessary columns e.g (Driver No), creating new columns both calculated and conditional colums, and creating a star schema model of the data.
 
-#### 3. Exploratory Data Analysis (EDA): Exploring the data, creating dax measures for key metrics and analyzing the data to answer the key business questions thereby identifying patterns and insights from the data.
+   3. Exploratory Data Analysis (EDA): Exploring the data, creating dax measures for key metrics and analyzing the data to answer the key business questions thereby identifying patterns and insights from the data.
 
-#### 4. Dashboard Development: To visualize these insights effectively, I built a dynamic dashboard. The dashboard allows the monitoring of logistics performance and identifies delay causes.
+   4. Dashboard Development: To visualize these insights effectively, I built a dynamic dashboard. The dashboard allows the monitoring of logistics performance and identifies delay causes.
 
-#### 5. Suggestions for Improvement: Finally, based on the data analysis, I provided suggestions and strategies for reducing delay rate and optimizing efficiency.
+   5. Suggestions for Improvement: Finally, based on the data analysis, I provided suggestions and strategies for reducing delay rate and optimizing efficiency.
