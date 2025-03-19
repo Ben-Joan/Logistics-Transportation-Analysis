@@ -20,7 +20,9 @@ To effectively analyze the Logistics & Transportation data and provide actionabl
 
 
 ## Insights 💡
-Logistics Performance Overview 
+
+#### Logistics Performance Overview: This page highlights the key metrics, booking trend analysis in monthly, hourly and daily occurrence. It also identifies the top 10 performers ranked by shipping volume for Route, Suppliers, Customers, Material flow and Drivers.
+
 ![Image](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/Logistics%20%26%20Transport%20Tracking_page-0001.jpg)
 
 **Overall Booking Performance:**
@@ -40,9 +42,13 @@ Logistics Performance Overview
 while Saturday and Sunday have the lowest bookings, with Sunday showing very little activity.
 
 
-Logistics Delay Analysis 
+#### Logistics Delay Analysis: This page identifies delay analysis causes as Distance, Vehicle Type, Driver, Route and Gps provider. It shows how far shipments go and delivery time efficiency, top 10 routes where most delays occur, top 10 vehicle and driver with high delay rate and Gps provider analysis.
+
 ![Image](https://github.com/Ben-Joan/Logistics-Transportation-Analysis/blob/main/Logistics%20%26%20Transport%20Tracking_page-0002.jpg)
 
+**Distance Analysis:**
+ - Most bookings are within shorter distances (i e 0 - 500km), followed by longer distance (2000+km). But delays persist across all ranges, most occurring at the 0-500km category.
+ - Delivery time increases with distance but delay does not increase at the same rate, especially at shorter distances (0-500km) which shows very poor time efficiency. Time efficiency shows the percentage of delivery time that is actually spent on transit. The very poor time efficiency at shorter distance indicates a severe problem which might possibly be from poor scheduling, traffic congestion or vehicle inefficiency due to high shipment volume within this distance.
 
 Check out the [Online Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQxZTk1OGQtZjMzMi00YzgyLWI4YWYtMWM0MzI2NzhkYjUxIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
