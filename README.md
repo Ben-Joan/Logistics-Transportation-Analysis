@@ -68,3 +68,19 @@ Check out the [Online Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQxZTk1
 
 
 ## Recommendations 🛠️
+To improve transportation efficiency:
+
+ - **Optimize Employee Availability:** Ensure adequate resources and staffing during peak periods i.e mid-year, weekdays, 1-6 pm.
+
+ - **Improve Scheduling and Resource Allocation:** Delivery time efficiency analysis reveals poor efficiency for shorter distances, indicating potential issues with scheduling, slow processing times, or ineffective last-mile delivery strategies. To address this, allocating additional resources such as vehicles and drivers can help optimize booking schedules and delivery operations. Thereby, enhancing overall delivery time efficiency.
+
+
+ - **Switch to More Reliable GPS Providers:** Consider replacing Consent Track with Vamosy, Apace Transco, or a combination of Vamosy with Ekta or Krc Logistics for better route optimization and tracking.
+
+ - **Supplier and Customer Relationship Management:** Investigate top suppliers with high delay rates and prioritize top customers with long delivery time (e.g., Larsen, Otis Elevator) to maintain business relationships
+
+ -**Driver Performance Management:** Re-train or consider letting go of top drivers with high delay impact.
+
+ -**Vehicle Maintenance:** Further Investigation of the top vehicles with high delay impact and perform necessary maintenance to prevent unnecessary breakdowns.
+
+By implementing these recommendations, there will be improvement in transportation efficiency, reducing delays, and enhancing customer satisfaction.
