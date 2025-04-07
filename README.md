@@ -64,23 +64,21 @@ while Saturday and Sunday have the lowest bookings, with Sunday showing very lit
 **GPS Provider Analysis**
  Consent Track Gps provider being the top tracker managing more than 50% of total shipments had a very low performance in providing a routing optimization algorithm for shipments. Also, most shipments with high delay impact were managed by consent track.
 
-Check out the [Online Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQxZTk1OGQtZjMzMi00YzgyLWI4YWYtMWM0MzI2NzhkYjUxIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
+Check out the [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQxZTk1OGQtZjMzMi00YzgyLWI4YWYtMWM0MzI2NzhkYjUxIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
 
 ## Recommendations 🛠️
 To improve transportation efficiency:
 
- - **Optimize Employee Availability:** Ensure adequate resources and staffing during peak periods i.e mid-year, weekdays, 1-6 pm.
-
  - **Improve Scheduling and Resource Allocation:** Delivery time efficiency analysis reveals poor efficiency for shorter distances, indicating potential issues with scheduling, slow processing times, or ineffective last-mile delivery strategies. To address this, allocating additional resources such as vehicles and drivers can help optimize booking schedules and delivery operations. Thereby, enhancing overall delivery time efficiency.
 
 
- - **Switch to More Reliable GPS Providers:** Consider replacing Consent Track with Vamosy, Apace Transco, or a combination of Vamosy with Ekta or Krc Logistics for better route optimization and tracking.
+ - **Switch to More Reliable GPS Providers:** Review Consent Track System or consider replacing with more reliable trackers like Vamosy, Apace Transco, or a combination of Vamosy with Ekta or Krc Logistics for better route optimization and tracking.
 
  - **Supplier and Customer Relationship Management:** Investigate top suppliers with high delay rates and prioritize top customers with long delivery time (e.g., Larsen, Otis Elevator) to maintain business relationships
 
- - **Driver Performance Management:** Re-train or consider letting go of top drivers with high delay impact.
+ -  Ensure adequate resources and staffing during peak periods i.e mid-year, weekdays, 1-6 pm to avoid delayed schedule and drivers for delivery.
 
- - **Vehicle Maintenance:** Further Investigation of the top vehicles with high delay impact and perform necessary maintenance to prevent unnecessary breakdowns.
+ - **Vehicle Maintenance:** Further Investigation of the vehicles with high delay impact and perform necessary maintenance to prevent unnecessary breakdowns.
 
 By implementing these recommendations, there will be improvement in transportation efficiency, reducing delays, and enhancing customer satisfaction.
